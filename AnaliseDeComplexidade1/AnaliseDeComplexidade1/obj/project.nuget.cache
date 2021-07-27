@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HrMu1WQdNZqyX4e3rsa0uTismZv+h+2gnCn0rnk7IcfxkHil5PEKAlRP34hpESC8aggrXwYnQyTFj5bs2pygQ==",
+  "success": true,
+  "projectFilePath": "/home/luciano/WorkSpace/DashboardBigO/AnaliseDeComplexidade1/AnaliseDeComplexidade1/AnaliseDeComplexidade1.csproj",
+  "expectedPackageFiles": [
+    "/home/luciano/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/luciano/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/luciano/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.17/microsoft.netcore.app.host.linux-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
