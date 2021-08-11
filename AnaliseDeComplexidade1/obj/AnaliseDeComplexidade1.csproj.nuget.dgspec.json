@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luciano\\OneDrive - uema.br\\Área de Trabalho\\AnaliseDeComplexidade\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj": {}
+    "C:\\Users\\Luciano\\Documents\\GitHub\\DashboardBigO\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luciano\\OneDrive - uema.br\\Área de Trabalho\\AnaliseDeComplexidade\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj": {
+    "C:\\Users\\Luciano\\Documents\\GitHub\\DashboardBigO\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano\\OneDrive - uema.br\\Área de Trabalho\\AnaliseDeComplexidade\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Documents\\GitHub\\DashboardBigO\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj",
         "projectName": "AnaliseDeComplexidade1",
-        "projectPath": "C:\\Users\\Luciano\\OneDrive - uema.br\\Área de Trabalho\\AnaliseDeComplexidade\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Documents\\GitHub\\DashboardBigO\\AnaliseDeComplexidade1\\AnaliseDeComplexidade1.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano\\OneDrive - uema.br\\Área de Trabalho\\AnaliseDeComplexidade\\AnaliseDeComplexidade1\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Documents\\GitHub\\DashboardBigO\\AnaliseDeComplexidade1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
